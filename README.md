@@ -14,3 +14,6 @@ Contributor: Abdul Waheed [abdulwaheed18@gmail.com]
 - @Builder
 - @Slf4j
 - @Cleanup
+
+## Lombok Configuration in Eclipse/IntelliJ Idea
+Please read my [blog](https://www.waheedtechblog.com/2020/01/setting-up-lombok-with-springtoolsuite.html) for lombok IDE configuration.
